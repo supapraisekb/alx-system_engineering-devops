@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# List the contents of current working directory
+ls 
